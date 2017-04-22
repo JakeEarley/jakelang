@@ -1,0 +1,62 @@
+add([x],[y])
+	Print the integer value of the addition of two integers
+
+subtract([x],[y])
+	Print the integer value of the subtraction of y from x.
+
+multiply([x],[y])
+	Print the integer value of the multiplication of two integers.
+
+divide([x],[y])
+	Print the integer value of x divided by y.
+
+store input
+	Temporarily store user input on a new line. Overwrites previous store.
+	
+store input,
+	Temporarily store user input on the same line. Overwrites previous store.
+
+dump input
+	Print all that has been put into the temporary store on a new line.
+
+dump input,
+	Print all that has been put into the temporary store on the same line.
+	
+write("[string]")
+	Print a given string on a new line.
+
+write("[string]"),
+	Print a given string on the same line.
+	
+input int([variable name])
+	Store an integer value as a defined variable name. 
+
+return int([variable name])
+	Return an integer value of a defined variable on a new line.
+	
+return int([variable name]),
+	Return an integer value of a defined variable on the same line.
+
+input string([variable name])
+	Store an text value as a defined variable name. 
+
+return string([variable name])
+	Return an text value of a defined variable on a new line.
+	
+return string([variable name]),
+	Return an text value of a defined variable on the same line.
+	
+repeat([repetitions]):
+	Repeats each line indented with a '>' for the amount of repetitions specified.
+	
+end
+	For safe programming, an end statement should be placed at the end of the program to prevent crashing. Anything after this will be ignored.
+	
+//[text]
+	Comment human text into a program. Comments are ignored by the interpreter.
+	
+in colour([colour])
+	Changes the default text colour to the colour specified.
+	
+if([x]?[y]):
+	Runs specific indented code if statement is true.

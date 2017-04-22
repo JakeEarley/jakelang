@@ -1,0 +1,16 @@
+clear
+in colour(blue)
+write("R"),
+in colour(red)
+write("a"),
+in colour(green)
+write("i"),
+in colour(yellow)
+write("n"),
+in colour(pink)
+write("b"),
+in colour(orange)
+write("o"),
+in colour(purple)
+write("w")
+end

@@ -1,0 +1,7 @@
+clear
+
+for i(1,100) step(1)
+>do
+>return int(i)
+
+end

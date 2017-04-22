@@ -1,0 +1,8 @@
+clear
+write("Enter your name: "),
+input string(name)
+clear
+write("Hello, "),
+return string(name)
+end
+

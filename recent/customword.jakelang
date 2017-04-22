@@ -1,0 +1,10 @@
+write("Enter number: ")
+input int(choice)
+
+if(&choice=1):
+>do
+>write("hi!")
+>else
+>write("hello")
+
+end

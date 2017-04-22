@@ -1,0 +1,9 @@
+clear
+write("How many square numbers would you like to print? "),
+input int(numct)
+
+for i(1,&numct) step(1)
+>do
+>multiply(&i,&i)
+
+end

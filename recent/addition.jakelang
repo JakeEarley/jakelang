@@ -1,0 +1,11 @@
+clear
+write("Enter first number to add: "),
+input int(num1)
+write("Enter second number to add: "),
+input int(num2)
+return int(num1),
+write(" + "),
+return int(num2),
+write(" = "),
+add(&num1,&num2)
+end

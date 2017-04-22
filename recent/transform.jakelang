@@ -1,0 +1,59 @@
+//Code created by John Bowring - johnbgamingg@gmail.com
+//Language courtesy of Jake Earley
+//DO NOT COPY OR THE SPOOKY SKELETON WILL SPOOK YOU
+ 
+clear
+ 
+//Ask the user for the colour
+write("What colour would you like displayed?(1 = black, 2 = grey, 3 = white, 4 = red, 5 = green, 6 = blue, 7 = purple)")
+input int(colour)
+ 
+//Work out which colour they would like
+if(&colour=1):
+>do
+>clear
+>Write("What would you like written in that colour?")
+>input string(text)
+>in colour(black)
+>return string(text)
+>elif(&colour=2)
+>clear
+>Write("What would you like written in that colour?")
+>input string(text)
+>in colour(grey)
+>return string(text)
+>elif(&colour=3)
+>clear
+>Write("What would you like written in that colour?")
+>input string(text)
+>in colour(white)
+>return string(text)
+>elif(&colour=4)
+>clear
+>Write("What would you like written in that colour?")
+>input string(text)
+>in colour(red)
+>return string(text)
+>elif(&colour=5)
+>clear
+>Write("What would you like written in that colour?")
+>input string(text)
+>in colour(green)
+>return string(text)
+>elif(&colour=6)
+>clear
+>Write("What would you like written in that colour?")
+>input string(text)
+>in colour(blue)
+>return string(text)
+>elif(&colour=7)
+>clear
+>Write("What would you like written in that colour?")
+>input string(text)
+>in colour(purple)
+>return string(text)
+>else
+>write("please input a correct number next time you naughty child")
+
+
+end

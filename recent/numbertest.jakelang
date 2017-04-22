@@ -1,0 +1,19 @@
+clear
+write("Input first int: "),
+input int(firstint)
+write("Input second int: "),
+input int(secondint)
+if(&firstint=&secondint):
+>return int(firstint),
+>write(" and "),
+>return int(secondint),
+>write(" are equal.")
+if(&firstint<&secondint):
+>return int(firstint),
+>write(" is smaller than "),
+>return int(secondint)
+if(&firstint>&secondint):
+>return int(firstint),
+>write(" is larger than "),
+>return int(secondint)
+end

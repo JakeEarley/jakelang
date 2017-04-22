@@ -1,0 +1,39 @@
+clear
+write("Enter first int: "),
+input int(num1)
+write("Enter second int: "),
+input int(num2)
+write("Enter third int: "),
+input int(num3)
+
+if(&num1>&num2):
+>do
+>write("num1 biggest")
+>set int(big,&num1)
+>set int(small,&num2)
+>else
+>write("num2 biggest")
+>set int(big,&num2)
+>set int(small,&num1)
+ 
+if(&num3>&big):
+>do
+>write("num3 biggest")
+>set int(mid,&big)
+>set int(big,&num3)
+>else:
+>write("num3 mid")
+>set int(mid,&num3)
+ 
+if(&mid<&small):
+>do
+>write("mid small")
+>set int(temp,&small)
+>set int(small,&mid)
+>set int(mid,&temp)
+
+return int(big)
+return int(mid)
+return int(small)
+
+end

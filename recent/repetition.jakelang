@@ -1,0 +1,15 @@
+// Messages started with two forwardslashes are comments and are ignored by the interpreter.
+// Clear the console of file loading messages.
+clear
+
+// Ask the user how many repetitions they want
+write("Input repetitions: "),
+// Recieve an integer input from the user
+input int(reps)
+
+// Greet the console given amount of times.
+repeat(&reps):
+>write("Hello!")
+
+// An end statement is added to prevent crashing and for good practise.
+end

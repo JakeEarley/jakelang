@@ -1,0 +1,6 @@
+clear
+
+setalert "ALERT"
+alert "Aliens inbound!"
+
+end

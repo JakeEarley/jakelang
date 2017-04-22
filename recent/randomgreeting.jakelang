@@ -1,0 +1,13 @@
+clear
+write("Enter number: "),
+input int(choice)
+
+if(&choice=1):
+>do
+>write("Hello")
+>elif(&choice=2):
+>write("Howdy")
+>else
+>write("Hey")
+
+end

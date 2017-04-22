@@ -1,0 +1,20 @@
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\bin\Debug\Interpreter1.exe.config
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\bin\Debug\Interpreter1.exe
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\bin\Debug\Interpreter1.pdb
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\bin\Debug\Interpreter1.xml
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\obj\Debug\Interpreter1.Resources.resources
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\obj\Debug\Interpreter1.vbproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\obj\Debug\Interpreter1.exe
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\obj\Debug\Interpreter1.xml
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\obj\Debug\Interpreter1.pdb
+C:\Users\Jake\Documents\Computing VB\Interpreter1\Interpreter1\obj\Debug\Interpreter1.vbprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\bin\Debug\Interpreter1.exe.config
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\obj\Debug\Interpreter1.exe
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\obj\Debug\Interpreter1.xml
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\obj\Debug\Interpreter1.pdb
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\bin\Debug\Interpreter1.exe
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\bin\Debug\Interpreter1.pdb
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\bin\Debug\Interpreter1.xml
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\obj\Debug\Interpreter1.vbprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\obj\Debug\Interpreter1.Resources.resources
+C:\Users\Jake\Documents\Jakelang\Visual Studio for Build 13\Interpreter1\Interpreter1\obj\Debug\Interpreter1.vbproj.GenerateResource.Cache
